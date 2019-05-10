@@ -1,9 +1,8 @@
-ABC: Remember to Always Be Coding
-=======================================
+Snap: Thanos will delete your files for you
+===========================================
 
-Always Be Coding runs across your terminal when you type "abc". It's just a joke command, and not useful at
-all.
+An ASCII gif of Thanos's snap will display in the terminal when you type 'snap'. I create an alias so that this happens every time I do an 'rm' command.
 
-ABC is a variant of SL, originally created by Toyoda Masashi (see below).
+Snap is built off of SL, originally created by Toyoda Masashi (see below).
 
 Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
